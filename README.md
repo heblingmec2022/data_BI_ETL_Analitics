@@ -121,3 +121,73 @@
   - Aplicando padronização na recuperação dos dados com CASE Statement
 
 - Materiais de apoio e questionário
+
+## 2.3 Fundamentos teóricos sobre ETL
+
+- Fundamentos de ETL
+  - Breve descrição do curso
+  - O que é ETL: extract, transform and load
+  - O que é ELT: extract, load and transform
+  - Processo de extração de dados - ETL
+  - Load, transform e vantagens do ETL
+  - Diferenças entre ETL e ELT
+  - Quando usar ETL ou ELT?
+- Materiais de apoio e questionário
+
+## 2.4 Primeiros passos com Power BI
+
+- Primeiros passos com Power BI
+  - O que é o Power BI?
+  - Por que Power BI?
+  - Explorando Power BI Service (Browser) - Parte 1
+  - Explorando Power BI Service (Browser) - Parte 2
+  - Instalando o Power BI desktop
+  - Conhecendo o Power BI desktop
+  - Não tenho dataset e agora? Kaggle
+  - Não tenho dataset e agora? Power BI samples
+  - Quais relatórios internos fazer neste curso?
+  - Coletando, modificando os dados do kaggle e criando o primeiro gráfico
+  - Caracterizando o dataset diabetes com gráfico de barras com linhas
+  - Finalizando relatório preliminar - dataset doabetes kaggle
+  - Obtendo dados com simples transformação dos dados sample financials do Power BI
+  - Criando primeira página do relatório financials - sample Power BI
+  - Criando segunda página do relatório financials - sample Power BI
+  - Explorando relatório financials e ajustando recursos visuais
+- Materiais de apoio e questionário
+
+# 3. Visualização de Dados e Relatórios com Power BI
+
+## 3.1 Trabalhando com visuais no Power BI
+
+  - Trabalhando com visuais no Power BI
+    - Apresentação do curso
+    - Formalizando conceitos do Power BI
+    - Criando alguns gráficos publicando relatório no Power BI Service
+    - Ajustando relatório para criar um layout mobile
+    - Conversando sobre Power BI e seus blocos construtores
+    - Conjunto de dados, report e blocos do Power BI
+    - Utilizando o modelo para analsar o conjunto de dados da sample do Power BI
+    - Entendendo os tipos de gráficos construindo um relatório no Power BI
+    - Trabalhando com árvore hierárquica, segmentadores e outros visuais
+    - Onde estão as samples do Power BI que iremos utilizar?
+    - Entendendo como os dados da sample estão organizados no Power BI
+    - Gráficos de mapas
+    - Utilizando gráficos de dispersão, donut chart e cartões
+    - Criando um gráfico de funil e realizando interação com relatório criado
+    - Ajustando disposição dos gráficos no relatório e utilizando medidores para metas
+    - Criando um dica de ferramentas paginada
+    - Quando podemos utilizar o tremap?
+    - Explrando visuais personalizados com Power BI - parte 1
+    - Explorando visuais personalizados com Power BI - parte 2
+  - Materiais de apoio e questionário
+
+## 3.2 O que são KPIs?
+
+- Fundamentos de BI: KPIs e Métricas
+  - O que são KPIs?
+  - Vantagens da utilização das KPIs
+  - Categorias e níveis dos KPIs
+  - O que devemos considerar com uso das KPIs?
+  - Considerações sobre KPIs
+  - Qual a diferença entre métricas e KPIs?
+- Materiais de apoio e questionário
