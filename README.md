@@ -181,7 +181,7 @@
     - Explorando visuais personalizados com Power BI - parte 2
   - Materiais de apoio e questionário
 
-## 3.2 O que são KPIs?
+## 3.2 Fundamentos de BI: KPIs e Métricas
 
 - Fundamentos de BI: KPIs e Métricas
   - O que são KPIs?
@@ -191,3 +191,67 @@
   - Considerações sobre KPIs
   - Qual a diferença entre métricas e KPIs?
 - Materiais de apoio e questionário
+
+## 3.3 Criando dashboards interativos com PowerBI
+
+- Criando dashboards interativos com PowerBI
+  - Apresentando o curso e definindo o que é um dashboard
+  - Criando nosso primeiro dashboard
+  - Modificando tema do dashboard no Power BI Service
+  - Criando blocos com P e R no Power BI
+  - Explorando submenus dos blocos contidos no dashboard
+  - Recursos disponíveis no free e no Power BI Pro e configurações
+  - O que são live pages? Quando utilizar um dashboard?
+  - Editando layout mobile para acesso ao dashboard via celular
+  - Streaming no Power BI
+- Materiais de apoio e questionário
+
+## 3.4 Criando um relatório gerencial de vendas com Power BI
+
+- Entendendo o que deve ser criado no relatório do desafio
+- Criando elementos da primeira página do relatório
+- Criando gráficos da primeira página do relatório
+- Criando o segmentador e visuais alternativos
+- Criando os botões do relatório e utilizando indicadores para gravar estado do relatório
+- Criando a interação por botões com a segunda página do relatório
+- Publicando relatório no Power BI service e consideraações finais
+- Entendendo o desafio
+
+# 4 Processamento de Dados com Power BI
+
+## 4.1 Coleta e extração de dados com Power BI
+
+- Coleta e extração de dados com Power BI
+  - Power BI suporta dados de fontes distintas com Power BI
+  - Conversando sobre integração do Power BI com outros sistemas
+  - Como podemos importar os dados de diferentes fontes?
+  - Substituindo origem do dataset local para onedrive no Power BI desktop
+  - Obtendo dados do excel com Power BI no onedrive (outra maneira)
+  - Conectando ao MySQL local utilizando oPower BI desktop
+  - Analisando os dados importados do MySQL com Power Query
+  - Quando utilizar o SQL para importar dados de um banco de dados?
+  - Criando um relatório simples para entender os dados recuperados do MySQL
+  - Utilizando SQL para restringir os dados recuperados do MySQL com Power BI
+  - Instanciando um banco de dados com SQL server na azure
+  - Analisando as configurações da nossa instância do SQL server na azure
+  - Considerações sobre integração com NoSQL e armazenamento de dados do Power BI
+  - Como lidar com problemas de desempenho no Power BI
+  - Integrando Power BI com SQL server na azure com DirectQuery
+- Materiais de apoio e questionário
+
+## 4.2 Limpeza e transformação de dados com Power BI
+
+- Limpeza e transformação de dados com Power BI
+  - Limpeza de dados: dados brutos e tratados (limpos)
+  - Explorando power query com 1º exemplo prático
+  - Quando devemos remover dados do projeto com Power BI
+  - Transformando colunas em linhas com Power BI
+  - Colunas dinâmicas - Pivot Column
+  - Explorando diversos recursos de transformação de dados com Power BI
+  - Transformando a estrutura de dados com terceiro exemplo
+  - Mesclando colunas com Power Query
+  - Explorando exibição de estatísticas da base de dados com Power Query
+  - Explorando a linguagem M com Power Query
+- Materiais de apoio e questionário
+
+## 4.3 Criando um dashboard corporativo com integração com MySQL e Azure
