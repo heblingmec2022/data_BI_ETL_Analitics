@@ -255,3 +255,13 @@
 - Materiais de apoio e questionário
 
 ## 4.3 Criando um dashboard corporativo com integração com MySQL e Azure
+
+- Desafio
+  - Descrevendo o desafio de projeto
+  - Criando uma instância do MySQL na azure
+  - Explorando o recurso - instância do MySQL
+  - Se conectando ao banco de dados com cloud shell
+  - Criando regra no firewall na azure para acesso ao banco de dados
+  - Conectando ao MySQL na azure utilizando workbench
+  - Integrando Power BI com MySQL na azure
+  - Endendendo o desafio
